@@ -1,14 +1,14 @@
 # Proposal Pembuatan Web
 
 ## Permasalahan
-Di organisasi yang saya jalani, kami biasa mengadakan acara bazaar teman teman saya kesulitan dalam menghitung stok dan untung yang diperoleh oleh organisasi karna masih manual menggunakan kertas
+Di organisasi yang saya jalani, kami biasa mengadakan acara bazaar, teman teman saya kesulitan dalam menghitung stok dan untung yang diperoleh oleh organisasi karna masih manual menggunakan kertas
 
 ## Rancangan Solusi
 - Membuat Aplikasi yang bisa memudahkan dalam pendaftaran bazaar 
 - Otomatisasi dalam penghitungan keuntungan
 
 ## Use Case
-- User dapat melakukan registrasi mandiri\
+- User dapat melakukan registrasi mandiri
 - User dapat memasukkan list barang yang ingin dijual
 - user dapat memasukkan list harga
 - user dapat melihat hasil penjulan
