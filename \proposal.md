@@ -39,5 +39,6 @@ hasil|int|200000
 keuntungan|int|50000
 
 # UX Wireframe
-![ux wireframe](https://user-images.githubusercontent.com/63436760/189528499-84a04eef-0fbc-4ebc-adda-c12559266e80.jpg)
+![ux wireframe](https://user-images.githubusercontent.com/63436760/189529022-a056c258-7ced-4fac-ae5e-a5cb2757c9d8.jpg)
+
 
