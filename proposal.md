@@ -21,7 +21,23 @@ Atribut|Tipe Data|Contoh
 ---|---|---
 ID|Int|1
 Username|String|Haha
+Password|String|oyyy
+
+### Barang
+Atribut|Tipe Data|Contoh
+---|---|---
 ID_Barang|Int|2
 Nama_Barang|String|Roti
+Stok|Int|10
 Harga|mediumint|2000
+
+### Data
+Atribut|Tipe Data|Contoh
+---|---|---
+ID_data|int|9
+hasil|int|200000
+keuntungan|int|50000
+
+# UX Wireframe
+![ux wireframe](https://user-images.githubusercontent.com/63436760/189528499-84a04eef-0fbc-4ebc-adda-c12559266e80.jpg)
 
