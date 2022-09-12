@@ -39,7 +39,8 @@ hasil|int|200000
 keuntungan|int|50000
 
 # UX Wireframe
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/63436760/189561429-762c483a-546e-42c0-9354-b36c4482176b.png)
+![Bazaar](https://user-images.githubusercontent.com/63436760/189561811-b1b4f3f0-2b49-4242-9ef9-8dae5759a315.jpg)
+
 
 
 
