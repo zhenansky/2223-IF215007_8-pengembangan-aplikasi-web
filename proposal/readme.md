@@ -13,6 +13,7 @@ Di organisasi yang saya jalani, kami biasa mengadakan acara bazaar, teman teman 
 - user dapat memasukkan list harga
 - user dapat melihat hasil penjulan
 - admin dapat melihat keuntungan yang didapat
+- admin memasukkan sisa stok dari client
 
 ## Struktur Data
 
