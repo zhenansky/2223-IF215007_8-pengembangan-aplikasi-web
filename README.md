@@ -16,4 +16,8 @@
 ## Mongo installation (2)
 ![image](https://user-images.githubusercontent.com/63436760/209266882-97786570-e380-47d2-9175-1943e3c18583.png)
 
+## Dbeaver
+![image](https://user-images.githubusercontent.com/63436760/209456540-21775ae9-f1cb-49c6-a0a6-1a4494e2d8e9.png)
+
+
 
