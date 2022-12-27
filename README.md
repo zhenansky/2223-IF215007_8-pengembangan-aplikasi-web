@@ -19,5 +19,50 @@
 ## Dbeaver
 ![image](https://user-images.githubusercontent.com/63436760/209456540-21775ae9-f1cb-49c6-a0a6-1a4494e2d8e9.png)
 
+## MobaXterm Installation & SSH Connection (2)
+![image](https://user-images.githubusercontent.com/63436760/209680823-18a155e3-6218-4ad3-afc1-63143b46c6fe.png)
+
+## NodeJS & NPM installation, operation & hello world (4)
+
+## Linux server operation (5)
+
+
+## Nginx / Apache web server installation & operation (5)
+
+
+## Cpanel operation (4)
+
+
+## Domain registration (1)
+
+
+## HTML Responsive Layout with Media Query & Flexbox (3)
+
+
+
+## Javascript Data Transformation (4)
+
+
+
+## Browser API - Event Handling, Local Storage, Element manipulation (5)
+
+
+
+
+## HTTP GET & POST using Form Action and Fetch API (5)
+
+
+
+## HTML Responsive Layout with Bootstrap (3)
+
+
+
+## Single Page App with React & React-router (12)
+
+
+
+## Dynamic Web Page using Laravel (9)
+
+
 
 
