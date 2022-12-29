@@ -40,6 +40,8 @@
 
 
 ## HTML Responsive Layout with Media Query & Flexbox (3)
+![image](https://user-images.githubusercontent.com/63436760/209975135-c01cca12-b6dc-45ee-94ca-280b56485ee5.png)
+![image](https://user-images.githubusercontent.com/63436760/209975217-3819f592-7e7a-48e2-aa66-2be27599109e.png)
 
 
 
