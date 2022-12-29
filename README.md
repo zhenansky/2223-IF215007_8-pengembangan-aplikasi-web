@@ -24,7 +24,10 @@
 
 ## NodeJS & NPM installation, operation & hello world (4)
 
+
 ## Linux server operation (5)
+![image](https://user-images.githubusercontent.com/63436760/209907206-e8836d71-9347-4a11-86ef-a45f29fcedbe.png)
+
 
 
 ## Nginx / Apache web server installation & operation (5)
@@ -45,7 +48,6 @@
 
 
 ## Browser API - Event Handling, Local Storage, Element manipulation (5)
-
 
 
 
