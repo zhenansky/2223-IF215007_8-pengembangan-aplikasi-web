@@ -60,7 +60,7 @@
 ## HTTP GET & POST using Form Action and Fetch API (5)
 ![image](https://user-images.githubusercontent.com/63436760/210023460-efbddc7f-c528-4f03-aee3-19b8d4bf9d29.png)
 ![image](https://user-images.githubusercontent.com/63436760/210023547-33647248-4e8f-4221-a74c-b12b8ba38457.png)
-![image](https://user-images.githubusercontent.com/63436760/210023530-ee63e962-7987-451a-97e7-75ef8100bf02.p
+![image](https://user-images.githubusercontent.com/63436760/210023530-ee63e962-7987-451a-97e7-75ef8100bf02.png)
 
 ## HTML Responsive Layout with Bootstrap (3)
 
