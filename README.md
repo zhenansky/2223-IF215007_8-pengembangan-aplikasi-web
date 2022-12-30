@@ -36,9 +36,27 @@
 
 
 ## Cpanel operation (4)
+#Deploy A PHP ke Cpanel
+Tampilan Default Cpanel
+![image](https://user-images.githubusercontent.com/63436760/210072505-8c109384-7460-4759-b2e4-fb51be42f61f.png)
+
+Masuk Ke File Manager
+![image](https://user-images.githubusercontent.com/63436760/210072617-3cb70d80-ae5f-49dd-8d02-4b838f2d4968.png)
+
+Masuk Ke public_html
+![image](https://user-images.githubusercontent.com/63436760/210072961-6dd2053c-42e7-44bf-afd9-6b8c62cdc154.png)
+
+Masukkan Projectnya
+![image](https://user-images.githubusercontent.com/63436760/210073035-ffb1185a-26e6-4109-86a3-f548cc63294d.png)
+
+Lalu Extract
+![image](https://user-images.githubusercontent.com/63436760/210073143-f04acafe-fd89-4397-8301-b703b64e37ab.png)
+![image](https://user-images.githubusercontent.com/63436760/210073204-ebc53ebd-ef13-407a-8bc1-c959a6c7b577.png)
+
 
 
 ## Domain registration (1)
+![image](https://user-images.githubusercontent.com/63436760/210073414-3afd2e93-4b6f-47f7-bf2f-d278d45060a0.png)
 
 
 ## HTML Responsive Layout with Media Query & Flexbox (3)
