@@ -23,6 +23,8 @@
 ![image](https://user-images.githubusercontent.com/63436760/209680823-18a155e3-6218-4ad3-afc1-63143b46c6fe.png)
 
 ## NodeJS & NPM installation, operation & hello world (4)
+![image](https://user-images.githubusercontent.com/63436760/210024284-4224ca86-6db1-4442-bcaa-7b5907e378b8.png)
+![image](https://user-images.githubusercontent.com/63436760/210024257-4b997f55-616e-4c4a-9e78-1fcb01955656.png)
 
 
 ## Linux server operation (5)
@@ -66,6 +68,10 @@
 
 ## Single Page App with React & React-router (12)
 ![image](https://user-images.githubusercontent.com/63436760/210023581-378de9cc-d0c2-4935-957b-79951f006389.png)
+![image](https://user-images.githubusercontent.com/63436760/210024197-181bca5f-9e65-4778-ac41-f1cd67705032.png)![image](https://user-images.githubusercontent.com/63436760/210024212-3fcfa8e7-ee9e-4ef9-ab72-9bd223123ec6.png)![image](https://user-images.githubusercontent.com/63436760/210024229-4de12478-0fdf-4574-ac91-4fc44f785d0c.png)
+
+
+
 
 
 ## Dynamic Web Page using Laravel (9)
