@@ -2,7 +2,7 @@
 - NIM : 1207050132
 - Mata Kuliah/Kelas : 
   - Pengembangan Aplikasi Web/F 
-  (Link Video Aplikasi)[https://youtu.be/1oDgD4mPnVc]
+  [Link Video Aplikasi](https://youtu.be/1oDgD4mPnVc)
   - Praktikum Pengembangan Aplikasi Web/F
 
 ## Git Installation (1)
